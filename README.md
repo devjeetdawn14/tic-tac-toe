@@ -6,8 +6,6 @@ A modern and responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript
 
 🔗 https://devjeetdawn14.github.io/tic-tac-toe/
 
-> Replace the link above if your GitHub Pages URL is different.
-
 ---
 
 ## ✨ Features
