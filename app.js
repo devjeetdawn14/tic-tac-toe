@@ -72,6 +72,10 @@ const checkWinner = () =>
             }
         }
     }
+    if([...boxes].every(box => box.innerText !== ""))
+    {
+        turnText.innerText = "It's a Draw!";
+    }
 }
 
 resetBtn.addEventListener("click", gameReset);
